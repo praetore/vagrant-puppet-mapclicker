@@ -1,0 +1,8 @@
+forge "https://forgeapi.puppetlabs.com"
+
+mod 'stankevich-python'
+mod 'puppetlabs-apt'
+mod 'puppetlabs-git'
+mod 'puppetlabs-vcsrepo'
+mod 'puppetlabs-postgresql'
+mod 'deversus-upstart'
